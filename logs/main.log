@@ -1,0 +1,584 @@
+2022-10-27 17:21:17,467 +0530 [main] INFO  (Tc_CustReg_001.java:14) - Regisration is Started
+2022-10-27 17:21:21,818 +0530 [main] INFO  (Tc_CustReg_001.java:28) - Customer Register Sucessfully
+2022-10-27 19:00:31,232 +0530 [main] INFO  (Tc_CustReg_001.java:14) - Regisration is Started
+2022-10-27 19:00:34,186 +0530 [main] INFO  (Tc_CustReg_001.java:28) - Customer Register Sucessfully
+2022-10-27 19:23:45,637 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:23:53,446 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:23:53,469 +0530 [main] INFO  (Tc_CustReg_001.java:35) - TestCase is Passed
+2022-10-27 19:26:18,495 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:26:23,348 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:27:51,823 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:27:59,910 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:28:02,923 +0530 [main] INFO  (Tc_CustReg_001.java:33) - Validattion is Started
+2022-10-27 19:28:53,300 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:29:00,461 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:29:00,461 +0530 [main] INFO  (Tc_CustReg_001.java:33) - Validattion is Started
+2022-10-27 19:31:23,157 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:31:27,577 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:31:27,578 +0530 [main] INFO  (Tc_CustReg_001.java:33) - Validattion is Started
+2022-10-27 19:31:27,604 +0530 [main] INFO  (Tc_CustReg_001.java:39) - TestCase is Passed
+2022-10-27 19:31:51,763 +0530 [main] INFO  (Tc_CustReg_001.java:15) - Regisration is Started
+2022-10-27 19:31:56,882 +0530 [main] INFO  (Tc_CustReg_001.java:30) - Customer Register Sucessfully
+2022-10-27 19:31:56,883 +0530 [main] INFO  (Tc_CustReg_001.java:33) - Validattion is Started
+2022-10-27 19:31:56,909 +0530 [main] INFO  (Tc_CustReg_001.java:39) - TestCase is Passed
+2022-10-28 08:20:00,693 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:20:05,376 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:20:05,377 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:20:05,402 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:20:56,702 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:21:14,800 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:21:14,801 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:21:14,826 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:23:55,096 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:24:01,264 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:24:01,264 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:24:01,294 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:26:58,208 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:27:03,599 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:27:03,600 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:27:03,628 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:27:51,444 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:27:55,375 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:27:55,376 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:27:55,405 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:29:34,309 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:29:42,284 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:29:42,284 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:29:42,310 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:31:54,001 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:31:58,112 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:31:58,113 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:31:58,143 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:32:02,221 +0530 [main] INFO  (TC_LoginTest_001.java:11) - Login Page is open
+2022-10-28 08:32:04,772 +0530 [main] INFO  (TC_LoginTest_001.java:17) - Customer Login Sucessfully
+2022-10-28 08:37:32,711 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:37:37,467 +0530 [main] INFO  (Tc_CustReg_001.java:31) - Customer Register Sucessfully
+2022-10-28 08:37:37,468 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Validattion is Started
+2022-10-28 08:37:37,507 +0530 [main] INFO  (Tc_CustReg_001.java:40) - TestCase is Passed
+2022-10-28 08:37:41,561 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:37:44,781 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:37:44,798 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 08:38:30,215 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:38:36,730 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:38:36,731 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:38:36,763 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:38:41,264 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:38:44,954 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:38:44,964 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 08:39:21,084 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:39:25,616 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:39:25,618 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:39:25,645 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:39:29,361 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:39:32,342 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:39:32,359 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 08:40:33,826 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:40:45,435 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:40:45,436 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:40:45,461 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:40:54,603 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:41:00,398 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:41:40,271 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:41:46,786 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:41:46,787 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:41:46,806 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:41:50,903 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:41:54,768 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:42:37,696 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:42:43,911 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:42:43,912 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:42:43,936 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:42:47,899 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:42:50,936 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:42:50,949 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 08:43:23,363 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 08:43:37,720 +0530 [main] INFO  (Tc_CustReg_001.java:32) - Customer Register Sucessfully
+2022-10-28 08:43:37,721 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Validattion is Started
+2022-10-28 08:43:37,756 +0530 [main] INFO  (Tc_CustReg_001.java:41) - TestCase is Passed
+2022-10-28 08:43:48,078 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 08:43:52,467 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 08:43:52,482 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 08:59:59,139 +0530 [main] INFO  (Tc_CustReg_001.java:16) - Regisration is Started
+2022-10-28 09:00:05,026 +0530 [main] INFO  (Tc_CustReg_001.java:33) - Customer Register Sucessfully
+2022-10-28 09:00:05,026 +0530 [main] INFO  (Tc_CustReg_001.java:36) - Validattion is Started
+2022-10-28 09:00:05,051 +0530 [main] INFO  (Tc_CustReg_001.java:42) - TestCase is Passed
+2022-10-28 09:00:08,495 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 09:00:12,360 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 09:00:12,375 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 09:12:15,442 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 09:12:21,128 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 09:12:21,129 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 09:12:21,145 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 09:12:24,073 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 09:12:25,543 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 09:13:04,724 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 09:13:09,491 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 09:13:09,491 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 09:13:09,503 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 09:13:11,359 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 09:13:12,890 +0530 [main] INFO  (TC_LoginTest_001.java:20) - Customer Login Sucessfully
+2022-10-28 09:22:12,581 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 09:22:18,314 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 09:22:18,314 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 09:22:18,330 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 09:22:21,356 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 09:22:23,024 +0530 [main] INFO  (TC_LoginTest_001.java:21) - Customer Login Sucessfully
+2022-10-28 11:07:04,044 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:07:09,800 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:07:09,800 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:07:09,817 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:07:12,736 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:07:15,246 +0530 [main] INFO  (TC_LoginTest_001.java:18) - Customer Login Sucessfully
+2022-10-28 11:09:18,578 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:09:23,768 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:09:23,769 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:09:23,787 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:09:26,288 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:09:28,566 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:12:21,835 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:12:28,676 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:12:28,676 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:12:28,694 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:12:31,728 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:12:33,637 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:13:18,491 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:13:24,315 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:13:24,315 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:13:24,333 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:13:27,450 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:13:29,315 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:13:29,332 +0530 [main] INFO  (TC_LoginTest_001.java:32) - TestCase is Failed
+2022-10-28 11:14:16,929 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:14:22,838 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:14:22,839 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:14:22,853 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:14:25,313 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:14:27,031 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:14:27,043 +0530 [main] INFO  (TC_LoginTest_001.java:32) - TestCase is Passed
+2022-10-28 11:17:18,709 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:17:24,862 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:17:24,863 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:17:24,877 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:17:27,090 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:17:29,220 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:17:29,238 +0530 [main] INFO  (TC_LoginTest_001.java:32) - TestCase is Passed
+2022-10-28 11:21:03,038 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:21:08,973 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:21:08,975 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:21:08,989 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:21:11,768 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:21:14,774 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:22:25,242 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:22:31,034 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:22:31,034 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:22:31,049 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:22:32,894 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:22:35,009 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 11:22:35,025 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 11:23:10,168 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 11:23:16,260 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 11:23:16,261 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 11:23:16,277 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 11:23:20,048 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 11:23:22,027 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 16:28:05,324 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 16:28:12,219 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 16:28:12,219 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 16:28:12,240 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 16:28:16,705 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 16:28:22,281 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 16:28:22,295 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 16:28:22,305 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 16:56:31,567 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 16:56:36,027 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 16:56:36,045 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 16:56:39,798 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 16:56:42,912 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 16:57:46,643 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 16:57:49,888 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 16:57:49,904 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 16:57:53,239 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 16:57:56,462 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 17:00:17,284 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 17:00:20,517 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 17:00:20,541 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 17:00:23,969 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 17:00:27,558 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 17:01:47,427 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 17:01:50,754 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 17:01:50,774 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 17:01:54,105 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 17:01:56,422 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 17:01:56,430 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:23) - Order Placing is Started
+2022-10-28 17:02:40,168 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 17:02:42,799 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 17:02:42,813 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 17:02:45,139 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 17:02:47,704 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 17:05:55,936 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 19:14:22,799 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 19:14:24,993 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 19:14:28,582 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 19:14:30,392 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 19:15:23,542 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 19:15:28,810 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 19:15:28,811 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 19:15:28,830 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 19:15:32,161 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 19:15:34,786 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 19:15:34,796 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 19:15:37,144 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 19:15:42,071 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 19:29:21,530 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 19:29:27,080 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 19:29:27,081 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 19:29:27,117 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 19:29:29,733 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 19:29:31,852 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 19:29:31,873 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 19:29:34,646 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 19:29:37,331 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-28 19:34:33,785 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-28 19:34:39,123 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-28 19:34:39,124 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-28 19:34:39,154 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-28 19:34:41,944 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-28 19:34:45,203 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-28 19:34:45,223 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-28 19:34:48,231 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-28 19:34:51,552 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-29 08:00:54,179 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-29 08:01:04,587 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-29 08:01:04,587 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-29 08:01:04,604 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-29 08:01:11,427 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-29 08:01:16,765 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-29 08:01:16,777 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-29 08:01:27,504 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-29 08:01:32,322 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-29 08:11:11,298 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-29 08:11:20,098 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-29 08:11:20,099 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-29 08:11:20,122 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-29 08:11:25,855 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-29 08:11:30,002 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-29 16:27:45,195 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-29 16:27:51,178 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-29 16:27:51,179 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-29 16:27:51,205 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-29 16:27:53,957 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-29 16:27:57,184 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-29 16:27:57,202 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-29 16:27:59,489 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-29 16:28:01,445 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:32:00,158 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-30 08:32:06,443 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-30 08:32:06,444 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-30 08:32:06,458 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-30 08:32:12,161 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-30 08:32:16,479 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-30 08:32:16,492 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-30 08:32:23,322 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-30 08:32:27,554 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:35:15,599 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-30 08:35:18,452 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-30 08:35:18,466 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-30 08:35:21,751 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-30 08:35:24,177 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:38:59,971 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-30 08:39:02,664 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-30 08:39:02,680 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-30 08:39:06,300 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-30 08:39:08,918 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:39:56,874 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-30 08:39:58,858 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-30 08:39:58,869 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-30 08:40:04,451 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-30 08:40:09,546 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:40:47,838 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-10-30 08:40:50,334 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-10-30 08:40:50,345 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-10-30 08:40:54,599 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:14) - User Landing on LoginPage
+2022-10-30 08:40:57,395 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Login Sucessfully
+2022-10-30 08:42:29,634 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:42:32,161 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:43:10,083 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:43:12,790 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:44:53,503 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:44:59,360 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:45:44,267 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:45:47,221 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:54:28,660 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:54:31,331 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:57:54,147 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:57:57,014 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 08:58:30,605 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:15) - User Landing on LoginPage
+2022-10-30 08:58:33,191 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:20) - User Login Sucessfully
+2022-10-30 09:20:54,782 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-30 09:20:59,772 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-30 09:20:59,772 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-30 09:20:59,786 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-30 09:21:03,697 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 09:21:03,728 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-30 10:47:33,190 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-30 10:47:40,381 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-30 10:47:40,381 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-30 10:47:40,410 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-30 10:47:46,297 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 10:47:48,964 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 10:48:38,980 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 10:48:41,782 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 10:48:41,847 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:29) - Order Placing is Started
+2022-10-30 11:01:49,702 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:01:52,783 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:03:15,513 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:03:18,589 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:06:58,221 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:07:02,640 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:07:04,776 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:30) - Order Placing is Started
+2022-10-30 11:10:41,511 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:10:44,550 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:10:46,575 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:11:45,904 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-10-30 11:11:52,761 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-10-30 11:11:52,763 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-10-30 11:11:52,791 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-10-30 11:11:58,813 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:12:02,306 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:12:04,323 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:12:58,095 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:13:02,210 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:13:04,229 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:14:22,743 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:14:28,540 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:14:30,561 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:17:50,304 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:17:53,776 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:17:55,801 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:21:02,019 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:21:06,566 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:21:08,584 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:22:53,610 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:22:56,563 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:22:58,591 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:25:01,379 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:25:04,067 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:25:06,086 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:33:49,479 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:33:52,834 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:33:54,846 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:34:43,663 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:34:47,248 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:34:49,266 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:37:27,083 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:37:32,270 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:37:34,290 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:54:30,201 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:54:33,191 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:54:35,213 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 11:59:16,069 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 11:59:19,082 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 11:59:21,100 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:00:17,218 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:00:20,031 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:00:22,060 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:01:18,868 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:01:21,733 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:01:23,767 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:04:15,895 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:04:19,174 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:04:21,189 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:05:13,379 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:05:17,507 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:05:19,537 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:07:14,524 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:07:19,884 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:07:21,908 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:08:43,524 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:08:47,186 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:08:49,212 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-10-30 12:09:38,540 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-10-30 12:09:41,914 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-10-30 12:09:43,943 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-01 08:38:17,213 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-11-01 08:38:23,981 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-11-01 08:38:23,982 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-11-01 08:38:24,005 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-11-01 08:38:29,442 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-11-01 08:38:40,394 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-11-01 08:38:40,406 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-11-01 08:38:56,933 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-01 08:39:00,256 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-01 08:39:02,278 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-01 08:40:57,206 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-11-01 08:41:01,598 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-11-01 08:41:01,599 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-11-01 08:41:01,626 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-11-01 08:41:06,331 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-11-01 08:41:09,433 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-11-01 08:41:09,440 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-11-01 08:41:13,419 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-01 08:41:16,398 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-01 08:41:18,417 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-01 09:01:15,482 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Landing on LoginPage
+2022-11-01 09:01:18,094 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:24) - User Login Sucessfully
+2022-11-01 09:01:20,110 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:29) - Order Placing is Started
+2022-11-01 09:01:29,239 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:53) - true
+2022-11-01 09:02:28,993 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Landing on LoginPage
+2022-11-01 09:02:32,478 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:24) - User Login Sucessfully
+2022-11-01 09:02:34,502 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:29) - Order Placing is Started
+2022-11-01 09:04:26,202 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:19) - User Landing on LoginPage
+2022-11-01 09:04:28,078 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:24) - User Login Sucessfully
+2022-11-01 09:04:30,106 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:29) - Order Placing is Started
+2022-11-02 09:30:03,742 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-11-02 09:30:09,838 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-11-02 09:30:09,839 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-11-02 09:30:09,862 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-11-02 09:30:14,958 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-02 09:30:18,265 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-02 09:30:20,298 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-03 11:26:16,229 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-11-03 11:26:22,425 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-11-03 11:26:22,425 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-11-03 11:26:22,448 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-11-03 11:26:26,303 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-11-03 11:26:28,798 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-11-03 11:26:28,811 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-11-03 11:26:32,274 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-03 11:26:35,479 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-03 11:26:37,515 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-03 11:26:50,227 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:51) - TestCase is Passed 
+2022-11-03 11:29:32,060 +0530 [main] INFO  (Tc_CustReg_001.java:17) - Regisration is Started
+2022-11-03 11:29:38,601 +0530 [main] INFO  (Tc_CustReg_001.java:34) - Customer Register Sucessfully
+2022-11-03 11:29:38,601 +0530 [main] INFO  (Tc_CustReg_001.java:37) - Validattion is Started
+2022-11-03 11:29:38,626 +0530 [main] INFO  (Tc_CustReg_001.java:43) - TestCase is Passed
+2022-11-03 11:29:42,390 +0530 [main] INFO  (TC_LoginTest_001.java:12) - Login Page is open
+2022-11-03 11:29:45,474 +0530 [main] INFO  (TC_LoginTest_001.java:19) - Customer Login Sucessfully
+2022-11-03 11:29:45,482 +0530 [main] INFO  (TC_LoginTest_001.java:25) - TestCase is Passed
+2022-11-03 11:29:48,784 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-03 11:29:51,292 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-03 11:29:53,312 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-03 11:30:07,470 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:51) - TestCase is Passed 
+2022-11-03 11:55:37,748 +0530 [main] INFO  (Tc_CustReg_001.java:18) - Regisration is Started
+2022-11-03 11:55:43,171 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Customer Register Sucessfully
+2022-11-03 11:55:43,172 +0530 [main] INFO  (Tc_CustReg_001.java:38) - Validattion is Started
+2022-11-03 11:55:43,206 +0530 [main] INFO  (Tc_CustReg_001.java:44) - TestCase is Passed
+2022-11-05 08:51:52,729 +0530 [main] INFO  (Tc_CustReg_001.java:18) - Regisration is Started
+2022-11-05 08:51:57,998 +0530 [main] INFO  (Tc_CustReg_001.java:35) - Customer Register Sucessfully
+2022-11-05 08:51:57,998 +0530 [main] INFO  (Tc_CustReg_001.java:38) - Validattion is Started
+2022-11-05 08:51:58,011 +0530 [main] INFO  (Tc_CustReg_001.java:44) - TestCase is Passed
+2022-11-05 08:52:01,276 +0530 [main] INFO  (TC_LoginTest_001.java:13) - Login Page is open
+2022-11-05 08:52:03,878 +0530 [main] INFO  (TC_LoginTest_001.java:20) - Customer Login Sucessfully
+2022-11-05 08:52:03,889 +0530 [main] INFO  (TC_LoginTest_001.java:26) - TestCase is Passed
+2022-11-05 08:52:07,543 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:17) - User Landing on LoginPage
+2022-11-05 08:52:10,381 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:22) - User Login Sucessfully
+2022-11-05 08:52:12,407 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:27) - Order Placing is Started
+2022-11-05 08:52:22,411 +0530 [main] INFO  (TC_CustPlaceOrder_001.java:51) - TestCase is Passed 
+2022-11-05 08:52:22,693 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,695 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-11-05 08:52:22,696 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-11-05 08:52:22,698 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-11-05 08:52:22,699 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-11-05 08:52:22,751 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,751 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-11-05 08:52:22,752 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-11-05 08:52:22,752 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-11-05 08:52:22,752 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-11-05 08:52:22,838 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,840 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-11-05 08:52:22,840 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-11-05 08:52:22,841 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-11-05 08:52:22,841 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-11-05 08:52:22,847 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-11-05 08:52:22,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-11-05 08:52:22,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-11-05 08:52:22,848 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-11-05 08:52:22,850 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,851 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-11-05 08:52:22,852 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-11-05 08:52:22,852 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-11-05 08:52:22,852 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-11-05 08:52:22,855 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,855 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-11-05 08:52:22,859 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-11-05 08:52:22,860 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-11-05 08:52:22,860 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-11-05 08:52:22,863 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-05 08:52:22,863 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,864 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2022-11-05 08:52:22,864 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-11-05 08:52:22,865 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-11-05 08:52:22,865 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-11-05 08:52:22,872 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,873 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-11-05 08:52:22,874 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-11-05 08:52:22,874 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-11-05 08:52:22,876 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-11-05 08:52:22,881 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,882 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-11-05 08:52:22,882 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-11-05 08:52:22,882 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-11-05 08:52:22,882 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-11-05 08:52:22,884 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,884 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-11-05 08:52:22,885 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-11-05 08:52:22,885 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-11-05 08:52:22,886 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-11-05 08:52:22,892 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,893 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-11-05 08:52:22,894 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-11-05 08:52:22,894 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-11-05 08:52:22,894 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-11-05 08:52:22,908 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,909 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-11-05 08:52:22,909 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-11-05 08:52:22,910 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-11-05 08:52:22,911 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-11-05 08:52:22,925 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,926 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-11-05 08:52:22,927 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-11-05 08:52:22,927 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-11-05 08:52:22,928 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-11-05 08:52:22,933 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-05 08:52:22,935 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-11-05 08:52:22,935 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,936 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2022-11-05 08:52:22,936 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-11-05 08:52:22,937 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-11-05 08:52:22,937 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-11-05 08:52:22,940 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,941 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2022-11-05 08:52:22,942 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-11-05 08:52:22,942 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-11-05 08:52:22,943 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-11-05 08:52:22,944 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,944 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2022-11-05 08:52:22,944 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-11-05 08:52:22,945 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-11-05 08:52:22,945 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-11-05 08:52:22,946 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,947 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2022-11-05 08:52:22,947 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-11-05 08:52:22,948 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-11-05 08:52:22,948 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-11-05 08:52:22,949 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,950 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2022-11-05 08:52:22,950 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-11-05 08:52:22,951 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-11-05 08:52:22,951 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-11-05 08:52:22,953 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,953 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-11-05 08:52:22,954 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-11-05 08:52:22,955 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-11-05 08:52:22,955 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-11-05 08:52:22,992 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,993 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-11-05 08:52:22,994 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-11-05 08:52:22,994 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-11-05 08:52:22,994 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-11-05 08:52:22,996 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-05 08:52:22,997 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-11-05 08:52:22,997 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-11-05 08:52:22,998 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-11-05 08:52:22,998 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/tanna/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

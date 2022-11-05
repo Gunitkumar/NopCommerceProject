@@ -1,0 +1,14 @@
+Com\NopCommerce\Utilities\Reporting.class
+Com\NopCommerce\PageObject\LoginPage.class
+Com\NopCommerce\TestCases\BaseClass.class
+Com\NopCommerce\TestCases\TC_CustPlaceOrder_001.class
+Com\NopCommerce\TestCases\TC_LoginTest_001.class
+Com\NopCommerce\TestCases\Listeners.class
+Log4jTest\log4jpath.class
+Log4jTest\MainApp.class
+Com\NopCommerce\Utilities\ExtenreportNG.class
+Com\NopCommerce\Utilities\ReadConfig.class
+Com\NopCommerce\Utilities\ListenerImplement.class
+Com\NopCommerce\PageObject\CustRgister.class
+Com\NopCommerce\PageObject\PlaceOrder.class
+Com\NopCommerce\TestCases\Tc_CustReg_001.class
